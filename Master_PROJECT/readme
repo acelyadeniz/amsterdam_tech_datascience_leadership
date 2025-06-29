@@ -1,0 +1,4 @@
+One merged JupyterNotebook for all codes for EDA, model building and the results
+Also you can find separate and same codes for different models: logistic regression, xgboost, DNN.
+
+Important! analysis_pipeline_merged.ipynb may not contain all information on the paper consult individual scripts
